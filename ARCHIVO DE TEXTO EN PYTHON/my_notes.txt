@@ -1,0 +1,3 @@
+Nota 1: Recordar repasar Python todos los días.
+Nota 2: Subir las tareas al repositorio de GitHub.
+Nota 3: Practicar lectura y escritura de archivos en Python.
